@@ -1,0 +1,48 @@
+.footer{
+  width: 100%;
+  position: relative;
+  position: fixed; /* Makes it stick to the bottom */
+  bottom: 0;  
+
+  display: flex;
+  /* background-color: rgb(254 215 170); */
+}
+
+  .fa-instagram{
+    margin: 20px;
+  }
+  .fa-facebook-f{
+    margin: 20px;
+  }
+  .fa-twitter{
+    margin: 20px;
+  }
+  .fa-dribbble{
+    margin: 20px;
+  }
+  .icons {
+    text-align: left; 
+    font-size: 1.5rem;  
+    color: #1a1a1a;    
+    bottom: 0;                  
+    padding: 10px 0;    
+}
+.navbar{
+  font-size: 0.8rem;
+  color: #1a1a1a;
+  margin: 0 0.5rem;
+  text-decoration: none;
+}
+.navbar {
+  list-style-type: none;
+  font-size: 0.8rem;
+  color: #1a1a1a;
+  margin: 0 0.5rem;
+  text-decoration: none;
+}
+.copy{  
+  position: relative;
+  top: 20px;
+  left: 750px;
+  padding: 10px 0; 
+}
